@@ -1,0 +1,64 @@
+__**SpongePowered**__: https://discord.gg/sponge
+=>
+__**Minecraft Dev for IntelliJ**__: https://discord.gg/j6UNcfr
+=>
+__**KyoriPowered**__: https://discord.gg/MMfhJ8F
+=>
+__**Almura**__: https://discord.gg/JCUkrRk
+=>
+__**AnvilPowered**__: https://discord.gg/8RUzuwu
+=>
+__**Aura Development Team (AuraSunDial, BungeeChat, InventorySync)**__: https://discord.gg/7ZRrzVg
+=>
+__**BlockyArena**__: https://discord.gg/hZHegaa
+=>
+__**bStats**__: https://discord.gg/qTXtXuf
+=>
+__**BlueMap**__: https://discord.gg/zmkyJa3
+=>
+__**codeHusky (HuskyCrates, HuskyUI)**__: https://discord.gg/FSETtcx
+=>
+__**CraftingStore**__: https://discord.gg/jcENzm8
+=>
+__**DevOnTheRocks (SkyClaims)**__: https://discord.gg/EkVQycV
+=>
+__**DosMike (VillagerShops, Warcraft MC, Lockette, Brotkasten)**__: https://discord.gg/E592Gdu
+=>
+__**eirikh1996's plugins (Structure Boxes)**__: http://discord.gg/YVgA8qf
+=>
+__**EngineHub (WorldEdit, WorldGuard, CraftBook)**__: https://discord.gg/enginehub
+=>
+__**EpicBanItem Team (EpicBanItem, VirtualChest)**__: https://discord.gg/TftabgG
+=>
+__**FabioZumbi12 (RedProtect, UltimateChat)**__: https://discord.gg/VHTwk53
+=>
+__**GLM (WebGL Map)**__: https://discord.gg/AzVuvtz
+=>
+__**GWMDevelopments (AutoMines, Cosmetics, GWMCrates, Simple Scavenger, ViewAPI)**__: https://discord.gg/3me9ees
+=>
+__**LanternPowered**__: https://discord.gg/ArSrsuU
+=>
+__**LuckPerms**__: https://discord.gg/luckperms
+=>
+__**MagiBridge**__: https://discord.gg/YttMwEr
+=>
+__**MixinExtras**__: https://discord.gg/VUkAeRYqdH
+=>
+__**MMC Plugins**__: https://discord.gg/DFEQ5KN
+=>
+__**Movecraft for Sponge**__: https://discord.gg/j9AxbRk
+=>
+__**Phyl's Stuff (CatClearLag, Market)**__: https://discord.gg/yUJc9G7
+=>
+__**Player Analytics**__: https://discord.gg/yXKmjzT
+=>
+__**RandomByte (Holograms, Lottery, CommandUtils)**__: https://discord.gg/ZHZ9Z8T
+=>
+__**Res Italica Plugins (ItalicaClearLag)**__: https://discord.gg/2GPtFdvagR
+=>
+__**Simon Flash (TeslaPowered, CmdControl, ActiveTime)**__: https://discord.gg/4wayq37
+=>
+__**Spirit's Plugin Corner (LuckySpongeBlock, PixelmonShiny)**__: https://discord.gg/cHDaC5UEVx
+=>
+__**(Unofficial) Community Sponge Plugin Support (Any old unsupported plugin)**__: https://discord.gg/f4Sbt8KfXx
+=>
